@@ -1,0 +1,7 @@
+{
+  "name": "FaceAuth",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
